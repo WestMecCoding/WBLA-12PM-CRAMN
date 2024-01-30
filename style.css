@@ -1,4 +1,4 @@
-=][* *{
+/* *{
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -54,7 +54,7 @@ a.nav-bar {
     text-decoration: none;
     display: inline-block;
     letter-spacing: 1px;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-family: 'DM Serif Display', serif;
     transition: all .40s ease;
 }
@@ -161,7 +161,6 @@ footer {
   /* padding: 30px 13% 50px; */
 }
 .footer{
-    /* pad-top: 25px; */
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, auto));
     /* position: absolute; */
