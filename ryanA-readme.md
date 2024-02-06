@@ -6,7 +6,7 @@ some info about tem project and contributions
 ```js
  
 ```
-> code ex 2:This is for the dots under the slider to select what slide you want.
+> code ex 2:This is for the dots under the slider to select what slide you want. I gave the divs the dot classs so I could put onclick on the dots so people can swap between the slides when you press the  
 ```html
 <div id="dot-container">
                         <span class="dot" onclick="currentSlide(1)"></span>
@@ -15,7 +15,7 @@ some info about tem project and contributions
                         <span class="dot" onclick="currentSlide(4)"></span>
                       </div>   
 ```
-> code ex 3: 
+> code ex 3: This is the css for the slider I 
 ```cs
  .prev, .next {
     cursor: pointer;
